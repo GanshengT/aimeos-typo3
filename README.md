@@ -1,5 +1,5 @@
 <a href="https://aimeos.org/">
-    <img src="https://aimeos.org/fileadmin/template/icons/logo.png" alt="Aimeos logo" title="Aimeos" align="right" height="60" />
+    <img src="https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjPpcaGpYfkAhWKmOAKHRwZAHQQjRx6BAgBEAQ&url=%2Furl%3Fsa%3Di%26source%3Dimages%26cd%3D%26ved%3D%26url%3Dhttps%253A%252F%252Ffr.wikipedia.org%252Fwiki%252FFichier%253AInserm.svg%26psig%3DAOvVaw1ZaCcEGEo5FxVY0L6mFekZ%26ust%3D1566041421196976&psig=AOvVaw1ZaCcEGEo5FxVY0L6mFekZ&ust=1566041421196976" alt="INSERM logo" title="INSERM" align="right" height="60" />
 </a>
 
 Aimeos TYPO3 extension
